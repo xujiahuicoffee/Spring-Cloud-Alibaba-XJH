@@ -7,7 +7,17 @@ package com.xjh.book.nacos.service;
  */
 public interface IHelloService {
 
+    /**
+     * hello world
+     * @param name
+     * @return
+     */
     String sayHello(String name);
 
+    /**
+     * 说点什么呢  master
+     * @param message
+     * @return
+     */
     String sayOthers(String message);
 }
