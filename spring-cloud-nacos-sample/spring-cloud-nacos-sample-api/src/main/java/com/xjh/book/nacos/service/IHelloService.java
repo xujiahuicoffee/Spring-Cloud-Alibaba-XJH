@@ -9,5 +9,10 @@ public interface IHelloService {
 
     String sayHello(String name);
 
+    /**
+     * 说点什么呢  master
+     * @param message
+     * @return
+     */
     String sayOthers(String message);
 }
