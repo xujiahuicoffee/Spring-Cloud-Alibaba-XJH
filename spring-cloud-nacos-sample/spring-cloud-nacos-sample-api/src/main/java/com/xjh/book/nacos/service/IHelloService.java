@@ -26,6 +26,9 @@ public interface IHelloService {
      */
     String sayOthers(String message);
 
+    /**
+     * 
+     */
     public static void method() {
         System.out.println("新年好");
     }
