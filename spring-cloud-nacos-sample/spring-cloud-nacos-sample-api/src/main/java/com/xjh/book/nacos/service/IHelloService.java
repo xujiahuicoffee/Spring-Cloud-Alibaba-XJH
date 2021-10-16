@@ -7,7 +7,6 @@ package com.xjh.book.nacos.service;
  * 1
  * 2
  * 3
- * 4
  */
 public interface IHelloService {
 
