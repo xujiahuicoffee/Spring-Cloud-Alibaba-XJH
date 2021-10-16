@@ -20,4 +20,8 @@ public interface IHelloService {
      * @return
      */
     String sayOthers(String message);
+
+    public static void method() {
+        System.out.println("新年好");
+    }
 }
