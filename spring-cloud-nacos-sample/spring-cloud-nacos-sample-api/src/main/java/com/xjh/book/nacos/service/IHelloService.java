@@ -2,7 +2,7 @@ package com.xjh.book.nacos.service;
 
 /**
  * @author user
- * @Description 这是master分支
+ * @Description 20211016
  * @create 2021/8/11 22:49
  */
 public interface IHelloService {
