@@ -4,9 +4,7 @@ package com.xjh.book.nacos.service;
  * @author user
  * @Description 20211016
  * @create 2021/8/11 22:49
- * 1
- * 2
- * 3
+ * test分支
  */
 public interface IHelloService {
 
