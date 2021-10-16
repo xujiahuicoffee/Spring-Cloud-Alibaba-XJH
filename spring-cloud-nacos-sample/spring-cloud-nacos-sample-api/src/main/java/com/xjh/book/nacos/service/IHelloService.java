@@ -8,7 +8,7 @@ package com.xjh.book.nacos.service;
 public interface IHelloService {
 
     /**
-     * hello world
+     * hello world 哈哈哈
      * @param name
      * @return
      */
