@@ -8,7 +8,7 @@ package com.xjh.book.nacos.service;
 public interface IHelloService {
 
     /**
-     * hello world
+     * hello world 哈哈哈
      * @param name
      * @return
      */
@@ -20,4 +20,8 @@ public interface IHelloService {
      * @return
      */
     String sayOthers(String message);
+
+    public static void method() {
+        System.out.println("新年好");
+    }
 }
